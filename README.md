@@ -13,4 +13,7 @@ SubChallenge files are the files which contain the Machine learning models.
 
 In our feature selection, we used P-values computed with permutation importance : https://academic.oup.com/bioinformatics/article/26/10/1340/193348
 
+Here is a kaggle kernel with a great implementation of the feature selection method described in the paper:
+https://www.kaggle.com/ogrellier/feature-selection-with-null-importances
+
 The models created for prediction of Survival Status use a combination of LR, LGBM, KNN, XGB RF, Voting and Stacking Classifiers.
