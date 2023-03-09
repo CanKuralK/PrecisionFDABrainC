@@ -5,7 +5,7 @@ This Repository is created for PrecisionFDA Brain Cancer Predictive Modeling and
 
 The submission is from the 
 FDA-CBER-HIVE team at the Food and Drug Administration/Center for Biologics Evaluation and Research/ Office of Biostatistics and Epidemiology.  
-The main participants are:  1) Kural Kamil, 2) Anton Golikov 3) Ilya Mazo and 4) Luis Santana-Quintero.  
+The main participants are:  1) Kamil Kural, 2) Anton Golikov 3) Ilya Mazo and 4) Luis Santana-Quintero.  
 Participants would like to acknowledge the help and support provided by the entire CBER-HIVE team. 
 
 The files that end with FS, describe the Feature Selection Process.
